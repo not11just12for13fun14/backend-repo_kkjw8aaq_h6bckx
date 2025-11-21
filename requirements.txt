@@ -7,4 +7,7 @@ requests==2.31.0
 email-validator==2.1.0
 passlib[bcrypt]==1.7.4
 python-jose==3.3.0
-python-multipart==0.0.7
+python-multipart>=0.0.9
+dnspython>=2.4.0
+certifi>=2023.7.22
+cryptography>=41.0.0
